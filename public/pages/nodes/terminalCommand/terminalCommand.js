@@ -1,0 +1,1 @@
+document.querySelector(".terminalCommandsButton").className = "clickedButton";

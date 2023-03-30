@@ -1,0 +1,23 @@
+.para{
+    font-size: 20px;
+}
+.firstImg{
+    position: relative;
+    width: 300px;
+    left: 292px;
+}
+.secondImg{
+    position: relative;
+    width: 250px;
+    left: 292px;
+}
+.thirdImg{
+    position: relative;
+    width: 220px;
+    left: 242px;
+}
+.fourthImg{
+    position: relative;
+    width: 250px;
+    left: 292px;
+}

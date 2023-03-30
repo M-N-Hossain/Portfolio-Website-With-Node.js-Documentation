@@ -1,0 +1,65 @@
+.container{
+    background-color: #E8DFD4;
+    width: 100%;
+    position: relative;
+    min-height: 605px;
+}
+.container .documentTitle{
+    width: 100%;
+}
+.container .documentTitle h2{
+    position: relative;
+    margin-top: 0;
+    top: 25px;
+    margin-left: 48%;
+    margin-bottom: 3%;
+}
+.container .content{
+    width: 95%;
+    background-color: #F1EDE3;
+    display: flex;
+    margin: 2%;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+.container .content .contentSidebar{
+    width: 20%;
+    margin-top: 50px;
+    text-align: center;
+}
+.container .content .contentSidebar button{
+    width: 140px;
+    padding: 5px;
+    margin-bottom: 5px;
+    color: #026E00;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+/* .container .content .contentSidebar button a{
+    text-decoration: none;
+    color: #026E00;
+} */
+.container .content .contentSidebar button:hover{
+    background-color: #026E00;
+    border: 1px solid #026E00;
+    border-radius: 5px;
+    color: white;  
+}
+.container .content .contentSidebar .clickedButton{
+    background-color: #026E00;
+    border: 1px solid #026E00;
+    border-radius: 5px;
+    color: white;  
+}
+
+.container .content .contentDescription{
+    width: 80%;
+    margin-left: 2%;
+    padding: 1%;
+    
+}
+

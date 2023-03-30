@@ -1,0 +1,12 @@
+.para{
+    font-size: 20px;
+}
+
+li{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+li p{
+    font-weight: normal;
+}

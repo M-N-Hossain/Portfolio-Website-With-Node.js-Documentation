@@ -1,0 +1,89 @@
+.container{
+    background-color: #E8DFD4;
+    width: 100%;
+    position: relative;
+    height: 800px;
+}
+.container .documentTitle{
+    width: 100%;
+}
+.container .documentTitle h2{
+    position: relative;
+    margin-top: 0;
+    top: 10px;
+    margin-left: 48%;
+    margin-bottom: 2%;
+}
+.container .content{
+    width: 95%;
+    background-color: #F1EDE3;
+    display: flex;
+    margin: 2%;
+    border-radius: 5px;
+    padding: 5px;
+
+    /* Flex box styling */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-flow: wrap;
+
+}
+
+.content a{
+    box-sizing: border-box;
+    background-color:  #E8DFD4;
+    width: 10%;
+    padding: 2%;
+    margin: 2%;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+.content a:hover{
+    box-shadow: 5px 10px #888888;
+
+}
+
+
+
+/* .container .content .contentSidebar{
+    width: 20%;
+    margin-top: 50px;
+    text-align: center;
+}
+.container .content .contentSidebar button{
+    width: 140px;
+    padding: 5px;
+    margin-bottom: 5px;
+    color: #026E00;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+.container .content .contentSidebar button a{
+    text-decoration: none;
+    color: #026E00;
+}
+.container .content .contentSidebar button:hover{
+    background-color: #026E00;
+    border: 1px solid #026E00;
+    border-radius: 5px;
+    color: white;  
+}
+.container .content .contentSidebar .clickedButton{
+    background-color: #026E00;
+    border: 1px solid #026E00;
+    border-radius: 5px;
+    color: white;  
+}
+
+.container .content .contentDescription{
+    width: 80%;
+    margin-left: 2%;
+    padding: 1%;
+    
+} */
+

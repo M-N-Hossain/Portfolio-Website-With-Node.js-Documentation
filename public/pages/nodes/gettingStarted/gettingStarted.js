@@ -1,0 +1,1 @@
+document.querySelector(".gettingStartedButton").className = "clickedButton";

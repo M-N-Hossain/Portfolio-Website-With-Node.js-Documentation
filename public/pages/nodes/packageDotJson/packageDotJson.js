@@ -1,0 +1,1 @@
+document.querySelector(".packageDotJsonButton").className = "clickedButton";
